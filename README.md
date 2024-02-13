@@ -11,7 +11,7 @@ Understanding blood flow dynamics within arteries is pivotal for assessing plaqu
 
 **Mesh**
 
-The mesh generation process utilizes the Ansys Design Modeler. The final mesh selection and time step are determined based on velocity and wall shear stress considerations.
+The mesh generation process utilizes the Ansys Design Modeler and meshing facilities. The final mesh selection and time step are determined based on velocity and wall shear stress considerations.
 
 **Requirements**
 
