@@ -14,9 +14,9 @@ Understanding blood flow dynamics within arteries is pivotal for assessing plaqu
 
 The mesh generation process utilizes the Ansys Design Modeler and meshing facilities. The final mesh selection and time step are determined based on velocity and wall shear stress considerations.
 
-**Mesh**
+**Methodology**
 
-The mesh generation process utilizes the Ansys Design Modeler and meshing facilities. The final mesh selection and time step are determined based on velocity and wall shear stress considerations.
+The second-order upwind scheme is chosen for its ability to accurately capture the convective terms in the Navier-Stokes equations, which govern fluid flow.
 
 **Requirements**
 
