@@ -1,5 +1,7 @@
 **Hemodynamical Behavior Analysis of Anemic, Diabetic, and Healthy Blood Flow in the Carotid Artery**
+
 **Authors: Hashnayne Ahmed, Chinmayee Podder**
+
 **Contact: hashnayneahmed17@gmail.com (H. Ahmed), chinmayeepodder1@gmail.com (C. Podder)**
 
 **Overview**
