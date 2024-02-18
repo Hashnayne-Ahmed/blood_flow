@@ -6,7 +6,7 @@
 
 **Overview**
 
-This investigation employs a 3D study model of the carotid artery and its branches within the Ansys Fluent simulation software. The carotid artery, depicted in cross-section, encompasses three main segments: the external carotid artery (ECA), the internal carotid artery (ICA), and the common carotid artery (CCA) serving as the inlet. Estimations are based on previously utilized data, acknowledging the anatomical variations in the carotid artery and its tributaries among individuals.
+This investigation employs a 3D model of the carotid artery and its branches within the Ansys Fluent simulation software. The carotid artery, depicted in cross-section, encompasses three main segments: the external carotid artery (ECA), the internal carotid artery (ICA), and the common carotid artery (CCA) serving as the inlet. Estimations are based on previously utilized data, acknowledging the anatomical variations in the carotid artery and its tributaries among individuals.
 
 Understanding blood flow dynamics within arteries is pivotal for assessing plaque formation and arterial health. Parameters such as velocity, pressure, and wall shear stress play crucial roles in determining blood flow efficiency. Monitoring these factors is essential for prescribing appropriate medical interventions. Simulation technology aids medical professionals and the biomedical industry in comprehending underlying pathophysiology and developing tailored solutions for managing these health conditions.
 
