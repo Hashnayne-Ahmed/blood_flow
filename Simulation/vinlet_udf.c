@@ -1,13 +1,8 @@
 /***********************************************************************/
-/* vinlet_udf.c
-*/
 /* UDFs for specifying time dependant velocity profile boundary condition
-*/ 
 /***********************************************************************/
-//Written by Chiyu Jiang
-//Cornell University
 
-#include "udf.h"//file that contains definitions for define functions and fluent operations
+#include "udf.h"//file that contains definitions for defined functions and fluent operations
 #define PI 3.141592654
 
 DEFINE_PROFILE(inlet_velocity,th,i)
@@ -18,7 +13,7 @@ DEFINE_PROFILE(inlet_velocity,th,i)
 
 	{
 		if(t <= 0.218)
-			F_PROFILE(f,th,i) = 0.5*sin(4*PI*(t+0.0160236));
+			F_PROFILE(f,th,i) = 0.5*sin(4*PI*(t+0.016));
 		else
 			F_PROFILE(f,th,i) = 0.1;
 	}
